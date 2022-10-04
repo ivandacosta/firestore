@@ -1,0 +1,11 @@
+.Carousel {
+  width: auto;
+  margin: auto;
+  padding-bottom: 100px;
+}
+
+@media screen and (min-width: 768px) {
+  .Carousel {
+    width: 900px;
+  }
+}
